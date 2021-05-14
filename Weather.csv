@@ -1,0 +1,9 @@
+﻿Location,Temperature(in Kelvin),Pressure(in hPa),Humidity(in Percentage),Weather,Date
+Dallas,287.14,1017,94,overcast clouds,10-May-21
+Detroit,281.52,1020,57,scattered clouds,10-May-21
+Dallas,287.86,1018,94,overcast clouds,11-May-21
+Detroit,280.39,1027,66,scattered clouds,11-May-21
+Dallas,287.95,1025,74,overcast clouds,12 May 2021
+Detroit,281.74,1028,59,clear sky,12 May 2021
+Dallas,290.72,1024,52,scattered clouds,13 May 2021
+Detroit,284.21,1026,41,clear sky,13 May 2021
